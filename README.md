@@ -45,7 +45,8 @@ This repository documents my hands-on journey through [TryHackMe](https://tryhac
 |------|--------|-------|
 | [Introduction to SIEM] | ✅ Done |
 | [Investigating with ELK 101] | ✅ Done |
-| [ItsyBitsy] | 🕗 In Progress |
+| [ItsyBitsy] | ✅ Done |
+| [Splunk: Basic] | 🕗 In Progress |
 
 ---
 
